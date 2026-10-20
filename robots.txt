@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcel0gs.github.io/seu-guia-rp/sitemap.xml
